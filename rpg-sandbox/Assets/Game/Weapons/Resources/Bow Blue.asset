@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e847859a58b2ab040b8c2e1f4fe9fdce, type: 3}
+  m_Name: Bow Blue
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 39a9fa91bedb95841879d1d6739dd0dc, type: 2}
+  equippedPrefab: {fileID: -6295081855289676641, guid: ba9403efd4cf1b944a44a05b6e0ec06b, type: 3}
+  weaponDamage: 5
+  percentageBonus: 0
+  weaponRange: 15
+  isRightHanded: 0
+  projectile: {fileID: 3361984039242756700, guid: 8d12d42ba274c554182c0ecf958e3cb2, type: 3}
